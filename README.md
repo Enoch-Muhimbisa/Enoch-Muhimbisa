@@ -23,7 +23,7 @@ I enjoy turning ideas into working applications, solving technical problems, and
 
 I'm building and refining projects that demonstrate practical software engineering skills.
 
-- **[Workboard](https://github.com/redeemedwinner92-dotcom/workboard)** — In development: a full-stack team project platform with a React/TypeScript frontend and Go API. The initial scaffold includes a responsive dashboard, health endpoint, tests, and CI workflow.
+- **[Workboard](https://github.com/redeemedwinner92-dotcom/workboard)** — In development: a full-stack team project platform with a React/TypeScript frontend and Go API. The early MVP includes a responsive dashboard, a Go health endpoint, validated in-memory task creation/listing, API tests, and CI checks.
 - **API Monitoring Service** — Planned: a backend project focused on reliability, concurrency, and service health checks.
 - **Developer Productivity Tool** — Planned: a Python CLI project focused on automation, testing, and maintainable code.
 
