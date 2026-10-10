@@ -23,11 +23,11 @@ I enjoy turning ideas into working applications, solving technical problems, and
 
 I'm building and refining projects that demonstrate practical software engineering skills.
 
-- **Full-Stack Project Platform** — A web application focused on frontend architecture, backend APIs, and database design.
-- **API Monitoring Service** — A backend project focused on reliability, concurrency, and service health checks.
-- **Developer Productivity Tool** — A Python CLI project focused on automation, testing, and maintainable code.
+- **[Workboard](https://github.com/redeemedwinner92-dotcom/workboard)** — In development: a full-stack team project platform with a React/TypeScript frontend and Go API. The initial scaffold includes a responsive dashboard, health endpoint, tests, and CI workflow.
+- **API Monitoring Service** — Planned: a backend project focused on reliability, concurrency, and service health checks.
+- **Developer Productivity Tool** — Planned: a Python CLI project focused on automation, testing, and maintainable code.
 
-*Project links and technical documentation will be added as each project reaches a usable release.*
+*Project status is labeled honestly; planned features are not presented as completed work.*
 
 ## 💡 How I Approach Software
 
