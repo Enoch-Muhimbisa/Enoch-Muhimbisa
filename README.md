@@ -1,36 +1,28 @@
-# Hi, I'm a Software Developer 👋
+# Software Developer
 
-I build practical software with a focus on clean code, reliable backend systems, and thoughtful user experiences.
+I build software with a focus on reliable backend systems, thoughtful interfaces, and maintainable engineering.
 
-I enjoy turning ideas into working applications, solving technical problems, and continuously improving my engineering skills.
+## Technologies
 
-## 🛠️ Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React
+- **Backend & systems:** Go, Python, C++
+- **Engineering:** API design, automated testing, debugging, system design, Git and GitHub
 
-**Frontend**
-- HTML5, CSS3, JavaScript
-- TypeScript, React
+## Featured project
 
-**Backend & Systems**
-- Go, Python, C++
+### [RelayForge — Workflow Execution Engine](https://github.com/Enoch-Muhimbisa/relayforge)
 
-**Engineering**
-- Git and GitHub
-- REST API development
-- Software testing and debugging
-- Responsive web development
+A Go-based workflow engine with deterministic DAG validation, dependency-aware execution, bounded concurrency, retries, and a custom React/TypeScript operator console.
 
+**Current stage:** early development. The engine and API-connected console are in place; PostgreSQL durability, distributed workers, leases, authentication, and crash recovery are planned rather than claimed as complete.
 
+## Engineering principles
 
-## 💡 How I Approach Software
+- Prefer readable, testable code and explicit interfaces.
+- Design failure handling and observability into the system.
+- Document trade-offs and distinguish implemented behavior from roadmap.
+- Measure performance with reproducible tests rather than unsupported claims.
 
-- Write readable, maintainable, and testable code.
-- Design clear APIs and modular applications.
-- Consider reliability, security, and performance.
-- Document technical decisions and trade-offs.
-- Keep learning through building and reviewing real projects.
+## Connect
 
-## 🤝 Let's Connect
-
-- GitHub: https://github.com/Enoch-Muhimbisa
-
-I'm interested in building useful software, learning from other engineers, and contributing to meaningful projects.
+- [GitHub profile](https://github.com/Enoch-Muhimbisa)
